@@ -1,3 +1,4 @@
 print ("Hellow, world")
 print ("Hellow, worlDDDDD")
 Даров
+GПривет дорогим друзьям
